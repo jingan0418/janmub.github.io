@@ -1,0 +1,130 @@
+.banner{
+    width: 1000px;
+    height: 269px;
+    margin: 40px auto;
+}
+.banner .left{
+    float: left;
+    width: 25%;
+    height: 200px;
+    margin-top: 43px;
+    margin-bottom: 46px;
+    position: relative;    
+    word-wrap: break-word; 
+    padding-left: 10%;
+} 
+.banner .left:first-child{
+    padding-left: 0%;
+}
+.banner .content-1{
+    font-size: 10px;
+    color: #575153;
+    text-align: left;
+    position: absolute;
+}
+.banner .content-1 h5{
+    margin-bottom: 20px;
+    color: #5c5658;
+}
+.banner .content-1 h6{
+    margin-bottom: 12px;
+    color: #9b9b9b
+}
+.banner .content-1 p{
+    line-height: 18px;
+    color: #c5c4c4;
+}
+.tijiaoBox{
+    width: 100%;
+    height: 44px;
+    padding: 0;
+    position: absolute;
+    top: 80%;
+}
+.tijiaoBox input{
+    width: 110px;
+    height: 44px;
+    text-align: center;
+    line-height: 42px;
+    border: 1px solid #333;
+    color: #333;
+    background-color: #fff;
+    cursor: pointer;
+}
+.tijiaoBox input:hover{
+    background: #00c8c8;
+    color: #fff;
+    border: 0;
+}
+.content{
+    width: 1500px;
+    height: 478px;
+}
+.content img{
+    width: 1017px;
+    height: 388px;
+    position: absolute;
+}
+.content .content-box{
+    width: 485px;
+    height: 388px;
+    background:#f8f8f8;
+    position: absolute;
+    right: 10px;
+}
+.content .content-1{
+    margin-top: 33px;
+    margin-left: 30px;
+}
+.content .content-1 h5{
+    margin-bottom: 20px;
+    color: #5c5658;
+}
+.content .content-1 h6{
+    margin-bottom: 12px;
+    color: #9b9b9b
+}
+.content .content-1 p{
+    line-height: 18px;
+    color: #c5c4c4
+}
+.content .content-1{
+    margin-bottom: 21px;
+}
+
+.contanctBJ .contanct{
+    width: 486px;
+    height: 100%;
+    margin: 0 auto;
+}
+.contanctBJ .contanct li{
+    line-height: 20px;
+    color: #777;
+    margin-left: 55px;    
+    position: relative;
+}
+.contanctBJ .contanct .gouwuche img{
+    width: 15px;
+    height: 15px;
+    background-color: #333;
+    position: absolute;
+    top: 4px;
+    left: -25px;
+}
+.icon .iconBT{
+    width: 486px;
+    height: 100%;
+    margin-top: 30PX;
+    margin-left: 10px;
+}
+.icon .iconBT li{
+    line-height: 20px;
+    color: #777;
+    margin-left: 20px;        
+    float: left;
+}
+.icon .iconBT .iconBT-1 img{
+    width: 15px;
+    height: 15px;
+    background-color: #333;
+}

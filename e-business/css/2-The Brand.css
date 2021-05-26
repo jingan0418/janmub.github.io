@@ -1,0 +1,33 @@
+.banner{
+    width: 856px;
+    height: 785px;    
+    margin: 46px auto;
+}
+.banner .half{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.banner .half img{
+    width: 417px;
+    height: 292px;
+    float: left;
+    position: relative;
+    margin-bottom: 46px;
+}
+.banner .half h5{
+    margin-bottom: 20px;
+    color: #5c5658;
+}
+.banner .half h6{
+    margin-bottom: 12px;
+    color: #9b9b9b
+}
+.banner .half p{
+    line-height: 18px;
+    color: #c5c4c4
+}
+.banner .half .content-1{
+    margin-bottom: 48px;
+
+}

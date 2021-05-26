@@ -1,0 +1,52 @@
+.signImg{
+    margin-top: 80px;
+}
+.inputBox{
+    width: 905px;
+    height: 294px;
+    margin: 40px auto;
+}
+.inputBox div{
+    float: left;
+    width: 400px;
+    height: 100%;
+    padding: 0 26px;
+}
+.inputBox .left{
+    border-right: 1px solid #f4f4f4;
+} 
+.inputBox div p{
+    font-size: 10px;
+    color: #575153;
+    text-align: left;
+    margin-bottom: 34px;
+}
+.inputBox div .shurukuang{
+    width: 100%;
+    height: 28px;
+    border: 1px solid #e7e7e7;
+    padding-left: 6px;
+    margin-bottom: 25px;
+}
+.tijiaoBox{
+    width: 100%;
+    height: 44px;
+    padding: 0;
+}
+.tijiaoBox input{
+    width: 110px;
+    height: 44px;
+    text-align: center;
+    line-height: 42px;
+    color: #fff;
+    background: #00c8c8;
+    border: 0;
+    cursor: pointer;
+}
+.tijiaoBox span{
+    float: right;
+    margin-top: 16px;
+    font-size: 10px;
+    color: #00c8c8;
+    cursor: pointer;
+}
